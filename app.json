@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "instamy",
+    "description": "A very interesting project.",
+    "slug": "instamy",
+    "privacy": "public",
+    "sdkVersion": "24.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
